@@ -6,7 +6,7 @@ This is probably still not really a production-ready deployment, but will work o
 
 ## Step 1 : clone the official repo
 
-```
+```bash
 git clone --recurse-submodules https://github.com/georchestra/docker.git
 cd docker
 git checkout 23.0 && git submodule update
